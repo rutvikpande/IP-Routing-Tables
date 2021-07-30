@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1618506153 source:d:\dsa miniproject\routingtab.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<limits.h>
+	"routingtab.h"
+
+1618488711 d:\dsa miniproject\routingtab.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<stdbool.h>
+
+1618505630 source:d:\dsa miniproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<stdbool.h>
+	"routingtab.h"
+
